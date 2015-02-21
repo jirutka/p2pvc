@@ -8,7 +8,19 @@ A point to point color terminal video chat.
 
 # Installation
 
+## Using package manager
+
+### Arch
+
 Arch users can install `p2pvc-git` from [the AUR](https://aur.archlinux.org/packages/p2pvc-git/)
+
+### OS X (with Homebrew)
+
+Homebrew users can install p2pvc using unofficial formula from [this gist](https://gist.github.com/jirutka/561281c2bb9295d7c154):
+
+    brew install --HEAD https://gist.githubusercontent.com/jirutka/561281c2bb9295d7c154/raw/p2pvc.rb
+
+## Manually
 
 ### Dependencies
 
